@@ -27,19 +27,19 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 19,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "Kaktus Productive 2"
+    "string": "Kaktus Productive P2"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
-  "do_objectID": "F5FFD0BA-B5EE-4C96-8ECA-8928B11BDF70",
+  "do_objectID": "C4FD690C-6826-4FE4-A211-A94E903286E5",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "DCC02DDA-38A8-4220-9D15-BC9100FEB0F4",
+    "do_objectID": "D0770B20-4B52-4EDC-9F72-E90F6E4D0B4B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "26A1162C-1728-4837-BD34-8D31AB64A5E3",
+    "do_objectID": "20868716-F753-436E-B8ED-4A48C833C23B",
     "height": 87,
-    "width": 597,
-    "x": 81,
+    "width": 636,
+    "x": 61.5,
     "y": 26
   },
-  "glyphBounds": "{{4, 15}, {588, 50}}",
+  "glyphBounds": "{{4, 15}, {627, 50}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Kaktus Productive 2",
+  "name": "Kaktus Productive P2",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -72,13 +72,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B52F656F-BE2B-4C00-A3DD-9E149386247E",
+    "do_objectID": "07F4C870-88BD-4558-8612-962B01228995",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "FF14A7E7-7447-41C4-A975-3F70C3A9CD16",
+      "do_objectID": "77080CB7-53D6-4A11-ACE2-78F0C47C85B7",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
