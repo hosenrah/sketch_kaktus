@@ -16,7 +16,11 @@
   },
   "colorSpace": 0,
   "do_objectID": "ae0d9680-90d5-11e8-956b-6f6ba2e1deb1",
+  "foreignLayerStyles": [
+  ],
   "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -24,12 +28,13 @@
     ]
   },
   "meta": {
-    "appVersion": "49.3",
-    "build": 51167,
-    "version": 101
+    "appVersion": "51.1",
+    "build": 57501,
+    "version": 105
   },
   "pages": [
-    "Page 1"
+    "Page 1",
+    "Page2"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
